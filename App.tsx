@@ -1,7 +1,6 @@
 
 import React, { useState } from 'react';
 import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
-import Layout from './components/Layout';
 import { Dashboard } from './pages/Dashboard';
 import { Accounting } from './pages/Accounting';
 import { PropertyView } from './pages/Property';
